@@ -1,3 +1,0 @@
-/Users/omrumbakitemiz/CLionProjects/ProLab2.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/omrumbakitemiz/CLionProjects/ProLab2.1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/omrumbakitemiz/CLionProjects/ProLab2.1/cmake-build-debug/CMakeFiles/ProLab2_1.dir
