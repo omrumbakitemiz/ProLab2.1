@@ -13,8 +13,6 @@ stdlib.h
 -
 math.h
 -
-time.h
--
 sys/time.h
 -
 
